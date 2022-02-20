@@ -1,0 +1,12 @@
+# Challengue
+
+Para poder ejecutar los request:
+Para eliminar un usuario, enviar un delete:https://localhost:44360/MyRestfulapp/User/id siendo id el identificador del usuario a eliminar
+Para poder actualizar un usuario, enviar un put a https://localhost:44360/MyRestfulapp/User/id, proveer los datos a actualizar en formato json a travez del body, siendo id el identificador del usuario a actualizar
+Para poder dar de alta un usuario, enviar un post a https://localhost:44360/MyRestfulapp/User/, proveer los datos en formato json a travez del body
+Para consultar por un usuario en particular, enviar un get a https://localhost:44360/MyRestfulapp/User/id siendo id el identificador del usuario a recuperar
+Para consultar el listado general de usuarios, enviar un get a https://localhost:44360/MyRestfulapp/User
+
+Para recuperar información sobre productos del sitio mercado libre, enviar un get a https://localhost:44360/MyRestfulapp/Busqueda/dato siendo dato la cadena de texto sobre la que se quiere realizar la búsqueda
+
+Para recuperar información sobre un país determinado, enviar un get a https://localhost:44360/MyRestfulapp/Paises/pais siendo pais la abreviatura del país sobre el cual se quiere recuperar información( por ejemplo: AR)
