@@ -10,3 +10,5 @@ Para consultar el listado general de usuarios, enviar un get a https://localhost
 Para recuperar información sobre productos del sitio mercado libre, enviar un get a https://localhost:44360/MyRestfulapp/Busqueda/dato siendo dato la cadena de texto sobre la que se quiere realizar la búsqueda
 
 Para recuperar información sobre un país determinado, enviar un get a https://localhost:44360/MyRestfulapp/Paises/pais siendo pais la abreviatura del país sobre el cual se quiere recuperar información( por ejemplo: AR)
+
+
