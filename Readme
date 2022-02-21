@@ -1,5 +1,5 @@
 # Challengue
-
+El archivo script.sql contiene el script para generar/poblar la base de datos a utilizar que debe ser montada localmente en sql server.
 Para poder ejecutar los request:
 Para eliminar un usuario, enviar un delete:https://localhost:44360/MyRestfulapp/User/id siendo id el identificador del usuario a eliminar
 Para poder actualizar un usuario, enviar un put a https://localhost:44360/MyRestfulapp/User/id, proveer los datos a actualizar en formato json a travez del body, siendo id el identificador del usuario a actualizar
